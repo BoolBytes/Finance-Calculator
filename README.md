@@ -3,7 +3,6 @@
 This Python program provides two different financial calculators:
 
 1. Investment Calculator: Calculates the amount of interest you'll earn on your investment based on user inputs such as deposit amount, interest rate, investment term, and interest type (simple or compound).
-
 2. Home Loan Repayment Calculator: Calculates the monthly repayment amount for a home loan based on user inputs such as house value, interest rate, and repayment duration.
 
 
